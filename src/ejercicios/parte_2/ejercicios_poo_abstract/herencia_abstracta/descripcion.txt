@@ -1,0 +1,6 @@
+En este ejercicio debes crear un una clase abstracta y una o dos clases que implememten esa clase
+crear una salida donde aplique la abstraction.
+Ejemplo:
+abstract animal();
+    animal(perro);
+    animal(gato);

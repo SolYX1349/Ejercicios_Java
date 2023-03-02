@@ -1,0 +1,4 @@
+En este ejercicio se debe crear un contador para cada objeto de tipo class que se genere
+puedes crear los objetos manualmente o mecánicamente recuerda al final mostrar la cantidad de objetos creados.
+
+Ejemplo Salida ≥ Se crearon 1777 objetos.

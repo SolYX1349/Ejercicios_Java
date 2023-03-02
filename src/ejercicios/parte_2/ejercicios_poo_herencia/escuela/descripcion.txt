@@ -1,0 +1,5 @@
+En este ejercicio debes crear una clase padre Persona la cual va a extender a las clases hijas
+Alumno y profesor, deben tener uno o más atributos para implementar en sus constructores a (súper)
+luego muestra por pantalla cada objeto;
+
+Ejemplo Salida -> Persona{nombre='Piter', apellido='Perez', edad=19}, Alumno{ materias=6}

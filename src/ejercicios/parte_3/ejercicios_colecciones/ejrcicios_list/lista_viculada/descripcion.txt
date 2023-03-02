@@ -1,0 +1,8 @@
+Con dos listas que representan dos enteros no negativos.
+Los dígitos se almacenan en orden inverso, y cada uno de sus nodos contiene un solo dígito.
+Agregue los dos números y devuelva la suma como una lista vinculada.
+Puede suponer que los dos números no contienen ningún cero inicial, excepto el número 0 en sí.
+Ejemplo:
+Entrada: l1 = [ 2,4,3 ], l2 = [ 5,6,4 ]
+Salida: [ 7,0,8 ]
+Explicación: 342 + 465 = 807

@@ -1,0 +1,14 @@
+En este ejercicio debes crear una clase generica con un metodo de lista agregar datos de cualquier tipo nombres e imprimir
+Ejemplo:
+Clase<T>
+List metodo T;
+
+Salida:
+Imprimir Nombres o Imprimir numeros.
+Carlos Garcia
+Pedro Cortez
+Camila Hernandez
+o
+100
+999
+564

@@ -1,0 +1,19 @@
+Crea un una lista de tipo List, inicialízala,
+crea un metodo para eliminar el contenido de una de las posiciones
+trata de hacer el metodo responsivo que incluya más metodos para las evaluaciones.
+Ejemplo:
+Initialisation:
+    Array: 20
+    Array: 256
+    Array: 356
+    Array: 129
+    Array: 475
+    Array: 12
+
+Salida:
+Contenido eliminado -> (129)
+    Array: 20
+    Array: 256
+    Array: 356
+    Array: 475
+    Array: 12

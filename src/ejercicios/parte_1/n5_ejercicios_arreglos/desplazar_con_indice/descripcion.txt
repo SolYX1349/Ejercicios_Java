@@ -1,0 +1,11 @@
+En este ejercicio se debe ingresar un Objeto y un número de posicion
+en esa posicion se debe colocar el objeto y desplazar hacia abajo.
+Ej.:ingresa hola en la posicion 2.
+Sin insercion--- con insercion
+[carlos]        [carlos]
+[lorem]         [lorem]
+[vaso]          [hola]
+[mesa]          [vaso]
+[basura]        [mesa]
+[casco]         [basura]
+                [casco]

@@ -1,0 +1,4 @@
+En este ejercicio debes manipular la exception de tipo null pointer.
+Ejemplo:
+print -> Persona.toString
+Error de referencia el objeto es null.

@@ -1,0 +1,1 @@
+En este ejercicio se debe obtener el mayor número de un arreglo.

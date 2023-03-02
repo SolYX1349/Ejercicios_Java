@@ -1,0 +1,9 @@
+En este ejercicio dadas las raíces de dos árboles binarios (arreglos) p y q, escriba una función para verificar si son iguales o no.
+Ejemplo:
+arreglo2 [] p = {1,2,3};
+arreglo1 [] q = {1,2,3};
+
+arreglo1 y 2 son identicos?
+
+Salida:
+Son identicos o Son diferentes.

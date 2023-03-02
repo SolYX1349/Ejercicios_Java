@@ -1,0 +1,2 @@
+En este programa se tiene un arreglo de alumnos que tendra 3 materias
+y hay que asignarle una nota a cada materia un promedio del alumno y un promedio general de todos los alumnos.

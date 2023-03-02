@@ -1,0 +1,7 @@
+En este ejercicio debes tratar de generar un error de tipo InputMismatchException
+trata de manejarlo de la manera más entendible.
+Ejemplo:
+ingresa un número: hola
+
+Salida:
+error de entrada.

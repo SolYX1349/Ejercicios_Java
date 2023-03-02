@@ -1,0 +1,7 @@
+En este ejercicio se debe crear y posteriormente manejar la exception de un arreglo.
+Ejemplo:
+Array.length = 1
+print(array[9])
+
+Salida:
+Error el índice 9 del arreglo no existe.

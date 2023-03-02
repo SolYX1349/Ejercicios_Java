@@ -1,0 +1,9 @@
+En este ejercicio se tiene que crear una clase la que se debe aplicar
+la diferencia de referencia en memoria, equals y hash e imprimir por consola.
+Ejemplo:
+Object1 = new Object ("abc",123);
+Object2 = new Object ("abc",123);
+    Salida:
+Son diferentes referencias en memoria.
+Son identicos en contenido.
+Son identicos en hash.

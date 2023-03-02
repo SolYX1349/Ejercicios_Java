@@ -1,0 +1,24 @@
+En este ejercicio se deben crear 3 atributos de clase ID , nombre y edad  agregar un objeto de esa clase a una lista y ordenar
+-Por ID
+-Por nombre
+-Por edad
+imprime por consola el resultado final.
+Ejemplo:
+1 , Carlos , 19
+2 , Maria , 45
+3 , Diana , 22
+Salida:
+Por ID
+1 , Carlos , 19
+2 , Maria , 45
+3 , Diana , 22
+
+Por Nombre
+1 , Carlos , 19
+3 , Diana , 22
+2 , Maria , 45
+
+Por Edad
+1 , Carlos , 19
+3 , Diana , 22
+2 , Maria , 45

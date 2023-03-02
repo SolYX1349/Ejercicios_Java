@@ -1,0 +1,6 @@
+En este ejercicio se debe crear una lista a partir de un list
+para agregar nombres y posterior imprimir por consola.
+Salida:
+Nombre: Carlos Heinz
+Nombre: Pedro Marcelo
+Nombre: Mauricio Nascar

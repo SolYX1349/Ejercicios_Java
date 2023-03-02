@@ -1,0 +1,9 @@
+En este ejercicio debes crear una clase abstracta con atributos de especificos para los animales,
+metodos abstractos de clase para implementarlos en los animales.
+Luego una descendencia donde agregue un atributo más de clase y finalmente un atributo más para la chase final de animal agrega los animales
+que tu decidesidas.
+
+Ejemplo Jerarquía:
+Mamífero extends Object;
+Canino extends Mamífero;
+perro extends Canino;

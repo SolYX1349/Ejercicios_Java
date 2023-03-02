@@ -1,0 +1,20 @@
+En este ejercicio se deben fucionar 2 arreglos en uno solo.
+Ejemplo:
+arreglo 1    arreglo 2
+    [1]         [1]
+    [12]        [12]
+    [5]         [8]
+    [9]         [5]
+    [8]         [9]
+
+arreglos combinados
+    [0]=[1]
+    [1]=[1]
+    [2]=[12]
+    [3]=[12]
+    [4]=[5]
+    [5]=[8]
+    [6]=[9]
+    [7]=[5]
+    [8]=[8]
+    [9]=[0]

@@ -1,0 +1,13 @@
+En este ejercicio de debe ordenar un arreglo con este aspecto.
+arreglo de 10 numeros.
+Ejemplo de salida
+    [1]
+    [10]
+    [2]
+    [9]
+    [3]
+    [8]
+    [4]
+    [7]
+    [5]
+    [6]

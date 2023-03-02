@@ -1,0 +1,7 @@
+En este ejercicio se obtienen algunos datos del usuario.
+Ejemplo:
+Nombre de usuario: Fabiola
+Pais de origen: UK
+Lenguaje: EN
+Arquitectura del sistema: 32
+Version del sistema = 9.0.3.4v

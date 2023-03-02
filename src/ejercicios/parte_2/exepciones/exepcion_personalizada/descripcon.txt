@@ -1,0 +1,7 @@
+En este ejercicio se debe manejar una exception con una exception personalizada arrojándola a su clase mayor.
+Ejemplo:
+edad = 1000
+si edad >= 1 && edad <= 100
+else arroja una exception a la clase Exception personalizada
+Salida:
+Edad invalida.

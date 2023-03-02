@@ -1,0 +1,14 @@
+En este ejercicio se debe arrojar una exception y tratar en
+la ultima llamada del metodo.
+Ejemplo:
+metodo 1 = 10/0
+metodo 2 = metodo 1();
+metodo 3 = try{metodo2();}catch{};
+main{
+metodo3 ();
+}
+Salida:
+Metodo 1 arroja exception.
+Metodo 2 arroja exception.
+Metodo 3 trata la exception.
+/by zero.

@@ -1,0 +1,12 @@
+En este programa el usuario debe introducir tres nombres los cuales servirán de ejemplo
+de escritura incorrecta y escrituras correctamente escritas.
+
+Ejemplo de entrada.
+"Carlos 2lorem morxio"
+"pedro c@valera hernandez"
+"Antonio daniel espinoza"
+
+Ejemplo de salida.
+No puede contener numeros.
+No puede contener caracteres especiales.
+Ingresado correctamente.

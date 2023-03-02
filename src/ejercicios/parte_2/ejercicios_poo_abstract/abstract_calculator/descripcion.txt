@@ -1,0 +1,5 @@
+En este ejrcicio de debe crear una interface que contenga metodos de suma abstractos
+como int 1 o double 2.12.
+Ejemplo:
+ si quiero sumar numeros enteros aplique la suma de numeros enteros
+ si quiero sumar numeros de tipo flotante se aplica para poder sumar numeros flotantes.

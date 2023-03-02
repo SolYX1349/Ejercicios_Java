@@ -1,0 +1,15 @@
+En este ejercicio debes creara una clase padre llamada camion y una llamada carro y extender a algunos modelos de carro y camiones,
+Posterior hacer una analisis de instancias para dejar pasar solo las clases que extiendan de carro.
+Ejemplo:
+Mercedes extends Carro
+Lamborghini extends Carro
+Tesla extends Camion
+
+Mercedes se instancia de Carro?
+Lamborghini se instancia de Carro?
+Tesla se instancia de Carro?
+
+Salida:
+Si
+Si
+No

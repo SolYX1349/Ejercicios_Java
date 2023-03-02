@@ -1,0 +1,7 @@
+Genera una clase generica que retorne el tipo de objeto.
+Ejemplo Entrada:
+ClasGen <String> gen = new ClasGen <> ("Hola");
+System.out.println(gen.getObjeto());
+
+Salida:
+El objeto <T> es: String

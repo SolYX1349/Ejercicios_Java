@@ -1,0 +1,28 @@
+En este ejercicio se debe crear una lista de tipo map para agregar identificadores o ID y objetos de clase persona
+el programa agrega un, id apartir de el identificador de la persona verificando asi si ya existe o si no.
+Ejemplo:
+        agregar(personaMap, persona);
+        agregar(personaMap, persona);
+        agregar(personaMap, persona1);
+        agregar(personaMap, persona2);
+        agregar(personaMap, persona2);
+        agregar(personaMap, persona3);
+        agregar(personaMap, persona3);
+
+Proceso:
+1=Persona{id=1, nombre='Carlos Vargas', edad=25}
+Tu elemento con ID = 1 ya existe verifica para no remplazar el valor anterior.
+4=Persona{id=4, nombre='Maria Zoto', edad=29}
+7=Persona{id=7, nombre='Ernesto Usma', edad=22}
+Tu elemento con ID = 7 ya existe verifica para no remplazar el valor anterior.
+2=Persona{id=2, nombre='Erick Solar', edad=23}
+Tu elemento con ID = 2 ya existe verifica para no remplazar el valor anterior.
+
+Salida:
+Tu elemento con ID = 1 ya existe verifica para no remplazar el valor anterior.
+Tu elemento con ID = 7 ya existe verifica para no remplazar el valor anterior.
+Tu elemento con ID = 2 ya existe verifica para no remplazar el valor anterior.
+1=Persona{id=1, nombre='Carlos Vargas', edad=25}
+2=Persona{id=2, nombre='Erick Solar', edad=23}
+4=Persona{id=4, nombre='Maria Zoto', edad=29}
+7=Persona{id=7, nombre='Ernesto Usma', edad=22}

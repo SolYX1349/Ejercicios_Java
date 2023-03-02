@@ -1,0 +1,5 @@
+En este ejercicio de usa la herencia y las llamadas desde super la clase padre.
+
+clase padre Persona Persona{ fecha = Wed Sep 07 10:14:38 CDT 2022, nombre = 'sonia', edad = 45, genero = f, direccion = 'Linces #4415'}
+clase hija Cliente Cliente{ fecha = Wed Sep 07 10:14:38 CDT 2022 idCliente = 1, vip = true, nombre = 'Sonia'}
+clase hija Empleado Empleado{ fecha = Wed Sep 07 10:14:38 CDT 2022, sueldo = 1200.0, idEmpleado = 1, nombre = Sonia}

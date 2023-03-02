@@ -1,0 +1,2 @@
+En este ejercicio se tratarán las o los Enums con un ejercicio que
+consistira en colocar el continente, número de paises y si es habitable o no.

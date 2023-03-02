@@ -1,0 +1,10 @@
+En este ejercicio se insertará un número dependiendo de su valor
+si el valor ael anterior o si es menor al superior.
+Ej: insertar el número 3.
+Original_____Insertada
+    [1]       [1]
+    [2]       [2]
+    [6]       [3]
+    [8]       [6]
+    [9]       [8]
+              [9]

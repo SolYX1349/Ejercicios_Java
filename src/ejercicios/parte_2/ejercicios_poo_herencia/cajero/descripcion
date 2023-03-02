@@ -1,0 +1,4 @@
+En este pograma se simula un cajero el cual pide datos de usuario
+posterior le da opciones a el usuario de que operacion realizar
+como Depositar,Retirar o Salir y posterio a eso mostrar un saldo
+de el cual tendra en su cuenta.

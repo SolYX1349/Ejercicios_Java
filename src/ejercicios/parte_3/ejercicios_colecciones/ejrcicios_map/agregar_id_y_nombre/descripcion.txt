@@ -1,0 +1,6 @@
+En este ejercicio se debe crear una lista a partir de un map
+para agregar id y nombres , posterior imprimir por consola.
+Salida:
+ID:15357 Nombre: Carlos Heinz
+ID:75638 Nombre: Pedro Marcelo
+ID:85645 Nombre: Mauricio Nascar

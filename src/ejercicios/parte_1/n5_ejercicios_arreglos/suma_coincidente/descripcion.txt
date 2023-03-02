@@ -1,0 +1,10 @@
+En este ejercicio dada una matriz de números enteros y un objetivo entero,
+devuelve índices de los dos números de modo que sumen el objetivo.
+Puede suponer que cada entrada tendría exactamente una solución y no puede usar el mismo elemento dos veces.
+Puede devolver la respuesta en cualquier orden.
+Ejemplo:
+numeros = {2,5,5,11}
+resultado esperado = 10
+
+Salida:
+[1,2] = 10

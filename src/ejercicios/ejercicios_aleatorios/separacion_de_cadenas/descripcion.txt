@@ -1,0 +1,19 @@
+En este ejercició se crea un metodo funcional para separar por un caractér una cadena.
+Entrada:
+String cadena = "nombre;apellido;ciudad;edad;pais;calle;hijos;padres;casa;algoritmos;estudios;peso;estatura;promedio";
+
+Salida:
+nombre
+apellido
+ciudad
+edad
+pais
+calle
+hijos
+padres
+casa
+algoritmos
+estudios
+peso
+estatura
+promedio

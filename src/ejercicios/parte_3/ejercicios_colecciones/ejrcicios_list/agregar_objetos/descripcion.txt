@@ -1,0 +1,11 @@
+En este ejercicio se debe crear una lista de tipo List que contenga objetos
+Ejemplo;
+Una lista de clase persona con nombre, apellido y edad.
+Lista<Persona> personas
+Salida:
+    Persona{nombre ='Hector', apellido ='Salamanca', edad =56}
+    Persona{nombre ='Pablo', apellido ='Martinez', edad =45}
+    Persona{nombre ='Javier', apellido ='Herrera', edad =23}
+    Persona{nombre ='Chucho', apellido ='Guzman', edad =45}
+    Persona{nombre ='Fran', apellido ='Malta', edad =76}
+    Persona{nombre ='Cristian', apellido ='Heinz', edad =19}

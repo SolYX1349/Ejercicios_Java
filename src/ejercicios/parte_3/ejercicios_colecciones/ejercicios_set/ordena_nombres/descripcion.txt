@@ -1,0 +1,21 @@
+En este ejercicio debes agregar nombres de distintas instancias de objetos persona y imprimir por consola.
+Ejemplo:
+4 ,Carlos ,44
+5 ,Jasmin ,48
+2 ,Orlando ,20
+
+Salida:
+Orden po nombre.
+Persona{id=4, nombre='Carlos', edad=44}
+Persona{id=5, nombre='Jasmin', edad=48}
+Persona{id=2, nombre='Orlando', edad=20}
+
+Orden por ID.
+Persona{id=2, nombre='Orlando', edad=20}
+Persona{id=4, nombre='Carlos', edad=44}
+Persona{id=5, nombre='Jasmin', edad=48}
+
+Ordenar por edad.
+Persona{id=2, nombre='Orlando', edad=20}
+Persona{id=4, nombre='Carlos', edad=44}
+Persona{id=5, nombre='Jasmin', edad=48}

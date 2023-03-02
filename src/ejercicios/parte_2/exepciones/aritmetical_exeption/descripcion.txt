@@ -1,0 +1,4 @@
+En este ejercicio debes manejar la exception de una
+operacion matematica fallida.
+Ejemplo:
+1/0 = error by zero

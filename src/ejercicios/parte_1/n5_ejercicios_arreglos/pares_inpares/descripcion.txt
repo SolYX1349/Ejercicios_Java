@@ -1,0 +1,5 @@
+Este programa recibe un arreglo de numeros,
+y debe ordenar en arreglos distintos los pares y los in pares.
+Ejemplo:
+         array1 = {1,2,6,3,7}
+arrayPares = [2,6]     arrayInpares = [1,3,7]

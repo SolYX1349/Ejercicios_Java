@@ -1,0 +1,7 @@
+Cresa un metodo el cual reciba como parametro un número de tipo entero
+el cual con una funcionalidad cambie el número ingresado a un tipo (caracter).
+Ejemplo de Entrada:
+Ingresa un número: 64
+
+Ejemplo de salida:
+Tu numero 64 es = @

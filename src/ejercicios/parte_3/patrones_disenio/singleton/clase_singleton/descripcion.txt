@@ -1,0 +1,6 @@
+En este ejercicio debes ocupar el patron o principio singleton para generar
+-Una instancia unica de clase;
+-Un metodo de instancia el cual sea una lista o array de paises no necesariamente todos los paises;
+Ejemplo:
+Lista getPaises() print {Canada , Estados Unidos , Mexico , Guatemala} primera llamada. Se crea la instancia.
+Lista getPaises() print {Canada , Estados Unidos , Mexico , Guatemala} segunda llamada. Se utiliza la instancia anterior.

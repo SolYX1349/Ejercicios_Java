@@ -1,0 +1,3 @@
+En este programa se debe crear un arreglo
+en él hay que ingresar datos y posteriormente
+hacer la búsqueda de uno y si no hay notificar.

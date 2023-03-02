@@ -1,0 +1,3 @@
+En este ejercicio se tiene que contener un orden, un producto, precio
+y las referencias del producto como el identificador de producto o contador de productos registrados
+un metodo que obtenga el total y un metodo que muestre la informacion de la orden.

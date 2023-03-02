@@ -1,0 +1,8 @@
+En este ejercicio debes crear un programa donde se agregue un texto
+y a que lo quieren convertir y mostrar el texto en salida.
+Ejemplo Entrada:
+Hola mundo
+mayusculas
+
+Salida:
+HOLA MUNDO

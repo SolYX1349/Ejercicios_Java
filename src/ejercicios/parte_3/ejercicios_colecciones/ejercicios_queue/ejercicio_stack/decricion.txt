@@ -1,0 +1,14 @@
+En este ejercicio se simula un sistema donde se está interactuando con un usuario de tipo cliente
+y se aplica la methodological --LIFO-- y la interface Thread.sleep() para esperar un tiempo de ejection
+este ejercicio es más visible en tiempo de ejection.
+
+Ejemplo de salida:
+
+---Primero en tiempo de ejection.
+Atendiendo al cliente -> Cliente{id=7, nombre='Ulises escampilla', status='Estudiante'}
+
+---Espera un tiempo para poder ejecutar este hilo ejection.
+Atendiendo al cliente -> Cliente{id=4, nombre='Maria Hernandez', status='Soltera'}
+
+---Espera un tiempo para poder ejecutar este hilo ejection.
+Atendiendo al cliente -> Cliente{id=1, nombre='Jorge luis', status='Trabajador'}

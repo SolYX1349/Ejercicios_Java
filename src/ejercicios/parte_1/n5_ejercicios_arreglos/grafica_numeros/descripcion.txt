@@ -1,0 +1,14 @@
+En este ejercicio se debe imprimir con un -> * <- la cantidad de veces que un número
+aparece en el arreglo de 0 al 9.
+Ejemplo: arreglo = {0,1,2,3,4,5,6,7,8,9,2,3,4,6,8,4,6}
+    Salida
+0: *
+1: *
+2: **
+3: **
+4: ***
+5: *
+6: ***
+7: *
+8: **
+9: *

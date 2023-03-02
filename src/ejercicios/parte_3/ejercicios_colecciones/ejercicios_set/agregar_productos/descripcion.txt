@@ -1,0 +1,7 @@
+En este ejercicio se debe crear una lista a partir de un set collection
+para agregar productos y posterior imprimir por consola.
+Salida:
+Producto: carro
+Producto: mesa
+Producto: ventana
+Producto: camara

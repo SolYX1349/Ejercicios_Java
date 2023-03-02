@@ -1,0 +1,7 @@
+En este ejercicio debes crear una estructura para evaluar las instancias de un objeto.
+Ejemplo:
+
+String es instancia de Number?
+no
+String es instancia de Object?
+si

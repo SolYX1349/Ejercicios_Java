@@ -1,0 +1,2 @@
+Este no es un ejercicio sino un patron de diseño de conexion, pero puedes hacerlo
+o puedes ver como es su estructura la cual solo genera una unica instancia para la conexion.

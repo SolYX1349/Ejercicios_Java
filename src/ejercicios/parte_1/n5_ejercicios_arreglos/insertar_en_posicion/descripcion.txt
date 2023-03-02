@@ -1,0 +1,2 @@
+En este ejercicio se debe insertar un número en la posicion indicada ,
+el objeto y el metodo regresa un arreglo del tipo.

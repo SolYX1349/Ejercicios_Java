@@ -1,0 +1,7 @@
+En este ejercicio debes ingresar tu nombre y mostrar en la salida
+mostrar su longitud.
+Ejemplo:
+Nombre = Carlos
+
+Salida:
+Nombre contiene 6 caracteres.

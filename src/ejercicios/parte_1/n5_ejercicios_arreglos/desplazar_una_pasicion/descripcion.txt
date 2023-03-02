@@ -1,0 +1,8 @@
+En este programa se debe desplazar la posicion del arreglo una casilla abajo
+y cuando esté en la última ser la primera.
+Ej:
+[0] [1]      [0] [5]
+[1] [2]      [1] [1]
+[2] [3]      [2] [2]
+[3] [4]      [3] [3]
+[4] [5]      [4] [4]
