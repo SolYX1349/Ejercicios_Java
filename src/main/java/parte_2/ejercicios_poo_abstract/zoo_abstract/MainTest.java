@@ -1,6 +1,9 @@
 package parte_2.ejercicios_poo_abstract.zoo_abstract;
-import com.mis_ejercicios.parte_2.ejercicios_poo_abstract.zoo_abstract.domain.*;
-import com.mis_ejercicios.parte_2.ejercicios_poo_abstract.zoo_abstract.domain.animales.*;
+
+import parte_2.ejercicios_poo_abstract.zoo_abstract.domain.Mamifero;
+import parte_2.ejercicios_poo_abstract.zoo_abstract.domain.animales.Leon;
+import parte_2.ejercicios_poo_abstract.zoo_abstract.domain.animales.Perro;
+
 public class MainTest {
     public static void main(String[] args) {
         // Canino

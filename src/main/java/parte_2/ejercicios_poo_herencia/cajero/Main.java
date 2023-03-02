@@ -1,6 +1,6 @@
 package parte_2.ejercicios_poo_herencia.cajero;
-import com.mis_ejercicios.parte_2.ejercicios_poo_herencia.cajero.dominio.Cuenta;
-import com.mis_ejercicios.parte_2.ejercicios_poo_herencia.cajero.dominio.Metodos;
+import parte_2.ejercicios_poo_herencia.cajero.dominio.Cuenta;
+import parte_2.ejercicios_poo_herencia.cajero.dominio.Metodos;
 
 import java.util.Scanner;
 public class Main {

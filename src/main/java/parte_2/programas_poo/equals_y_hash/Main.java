@@ -1,5 +1,5 @@
 package parte_2.programas_poo.equals_y_hash;
-import com.mis_ejercicios.parte_2.programas_poo.equals_y_hash.domine.Persona;
+import parte_2.programas_poo.equals_y_hash.domine.Persona;
 public class Main {
     public static void main(String[] args) {
         Persona persona1 = new Persona("Carlos" , 23);

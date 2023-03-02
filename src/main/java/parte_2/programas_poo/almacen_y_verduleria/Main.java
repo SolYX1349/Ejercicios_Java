@@ -1,5 +1,5 @@
 package parte_2.programas_poo.almacen_y_verduleria;
-import com.mis_ejercicios.parte_2.programas_poo.almacen_y_verduleria.domain.*;
+import parte_2.programas_poo.almacen_y_verduleria.domain.*;
 
 public class Main {
     public static void main(String[] args) {

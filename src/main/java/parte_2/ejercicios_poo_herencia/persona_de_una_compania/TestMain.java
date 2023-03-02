@@ -1,6 +1,6 @@
 package parte_2.ejercicios_poo_herencia.persona_de_una_compania;
 
-import com.mis_ejercicios.parte_2.ejercicios_poo_herencia.persona_de_una_compania.domain.Gerente;
+import parte_2.ejercicios_poo_herencia.persona_de_una_compania.domain.Gerente;
 
 public class TestMain {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
 package parte_3.ejercicios_colecciones.ejrcicios_map.exist_id;
 
-import com.mis_ejercicios.parte_3.ejercicios_colecciones.ejrcicios_map.exist_id.antity.Persona;
+import parte_3.ejercicios_colecciones.ejrcicios_map.exist_id.antity.Persona;
 
 import java.util.*;
 

@@ -1,5 +1,5 @@
 package parte_2.programas_poo.ventas;
-import com.mis_ejercicios.parte_2.programas_poo.ventas.domine.*;
+import parte_2.programas_poo.ventas.domine.*;
 public class Main {
     public static void main(String[] args) {
         //Orden 1

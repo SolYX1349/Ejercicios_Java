@@ -1,6 +1,6 @@
 package parte_3.ejercicios_colecciones.ejercicios_set.ordena_nombres;
 
-import com.mis_ejercicios.parte_3.ejercicios_colecciones.ejercicios_set.ordena_nombres.clase_y.Persona;
+import parte_3.ejercicios_colecciones.ejercicios_set.ordena_nombres.clase_y.Persona;
 import java.util.*;
 
 public class Main {

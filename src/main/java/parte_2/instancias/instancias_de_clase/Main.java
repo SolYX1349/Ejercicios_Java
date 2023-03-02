@@ -1,6 +1,6 @@
 package parte_2.instancias.instancias_de_clase;
 
-import com.mis_ejercicios.parte_2.instancias.instancias_de_clase.clases.*;
+import parte_2.instancias.instancias_de_clase.clases.*;
 
 public class Main {
     public static void main(String[] args) {

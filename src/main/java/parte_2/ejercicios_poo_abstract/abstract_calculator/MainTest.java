@@ -1,5 +1,8 @@
 package parte_2.ejercicios_poo_abstract.abstract_calculator;
-import com.mis_ejercicios.parte_2.ejercicios_poo_abstract.abstract_calculator.domine.*;
+
+import parte_2.ejercicios_poo_abstract.abstract_calculator.domine.Calculator;
+import parte_2.ejercicios_poo_abstract.abstract_calculator.domine.CalculatorIMP;
+
 public class MainTest {
     public static void main(String[] args) {
         Calculator calcular = new CalculatorIMP();

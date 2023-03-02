@@ -1,8 +1,5 @@
 package parte_2.ejercicios_poo_herencia.up_y_dawncasting;
-import com.mis_ejercicios.parte_2.ejercicios_poo_herencia.up_y_dawncasting.domine.Empleado;
-import com.mis_ejercicios.parte_2.ejercicios_poo_herencia.up_y_dawncasting.domine.Escritor;
-import com.mis_ejercicios.parte_2.ejercicios_poo_herencia.up_y_dawncasting.domine.Gerente;
-import com.mis_ejercicios.parte_2.ejercicios_poo_herencia.up_y_dawncasting.domine.TipoEscritura;
+import parte_2.ejercicios_poo_herencia.up_y_dawncasting.domine.*;
 
 public class Main {
     public static void main(String[] args) {

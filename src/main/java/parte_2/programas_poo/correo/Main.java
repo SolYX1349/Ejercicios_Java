@@ -1,5 +1,5 @@
 package parte_2.programas_poo.correo;
-import com.mis_ejercicios.parte_2.programas_poo.correo.dominio.MetodosImp;
+import parte_2.programas_poo.correo.dominio.MetodosImp;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

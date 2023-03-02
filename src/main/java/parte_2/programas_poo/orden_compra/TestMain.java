@@ -1,7 +1,7 @@
 package parte_2.programas_poo.orden_compra;
 
-import com.mis_ejercicios.parte_2.programas_poo.orden_compra.domain.Orden;
-import com.mis_ejercicios.parte_2.programas_poo.orden_compra.domain.Producto;
+import parte_2.programas_poo.orden_compra.domain.Orden;
+import parte_2.programas_poo.orden_compra.domain.Producto;
 
 public class TestMain {
     public static void main(String[] args) {

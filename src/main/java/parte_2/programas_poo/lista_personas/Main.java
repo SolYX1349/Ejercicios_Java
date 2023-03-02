@@ -1,5 +1,5 @@
 package parte_2.programas_poo.lista_personas;
-import com.mis_ejercicios.parte_2.programas_poo.lista_personas.domain.Persona;
+import parte_2.programas_poo.lista_personas.domain.Persona;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
 package parte_2.ejercicios_enumeraciones.enum_continetes;
 
-import com.mis_ejercicios.parte_2.ejercicios_enumeraciones.enum_continetes.dominio.Continentes;
+import parte_2.ejercicios_enumeraciones.enum_continetes.dominio.Continentes;
 
 public class Main {
     public static void main(String[] args) {

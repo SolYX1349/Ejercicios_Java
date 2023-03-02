@@ -1,6 +1,6 @@
 package parte_3.ejercicios_generics.lista_generica;
 
-import com.mis_ejercicios.parte_3.ejercicios_generics.lista_generica.clase_x.GenericClass;
+import parte_3.ejercicios_generics.lista_generica.clase_x.GenericClass;
 
 public class Main {
     public static void main(String[] args) {

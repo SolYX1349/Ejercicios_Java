@@ -1,5 +1,5 @@
 package parte_2.ejercicios_poo_herencia.herencia_multiple;
-import com.mis_ejercicios.parte_2.ejercicios_poo_herencia.herencia_multiple.dominio.*;
+import parte_2.ejercicios_poo_herencia.herencia_multiple.dominio.*;
 
 public class Main {
     public static void main(String[] args) {

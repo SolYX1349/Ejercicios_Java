@@ -1,8 +1,8 @@
 package parte_2.ejercicios_poo_herencia.escuela;
 
-import com.mis_ejercicios.parte_2.ejercicios_poo_herencia.escuela.domain.Alumno;
-import com.mis_ejercicios.parte_2.ejercicios_poo_herencia.escuela.domain.Persona;
-import com.mis_ejercicios.parte_2.ejercicios_poo_herencia.escuela.domain.Profesor;
+import parte_2.ejercicios_poo_herencia.escuela.domain.Alumno;
+import parte_2.ejercicios_poo_herencia.escuela.domain.Persona;
+import parte_2.ejercicios_poo_herencia.escuela.domain.Profesor;
 
 public class MainTest {
     public static void main(String[] args) {

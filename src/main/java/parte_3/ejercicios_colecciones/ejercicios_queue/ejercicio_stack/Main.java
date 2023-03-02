@@ -1,6 +1,6 @@
 package parte_3.ejercicios_colecciones.ejercicios_queue.ejercicio_stack;
 
-import com.mis_ejercicios.parte_3.ejercicios_colecciones.ejercicios_queue.ejercicio_stack.entity.Cliente;
+import parte_3.ejercicios_colecciones.ejercicios_queue.ejercicio_stack.entity.Cliente;
 
 import java.util.Stack;
 

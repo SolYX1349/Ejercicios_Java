@@ -1,6 +1,6 @@
 package parte_3.patrones_disenio.singleton.clase_singleton;
 
-import com.mis_ejercicios.parte_3.patrones_disenio.singleton.clase_singleton.clase_x.Paises;
+import parte_3.patrones_disenio.singleton.clase_singleton.clase_x.Paises;
 
 import java.util.*;
 

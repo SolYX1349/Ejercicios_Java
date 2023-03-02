@@ -1,5 +1,5 @@
 package parte_3.ejercicios_colecciones.ejrcicios_list.ordenar;
-import com.mis_ejercicios.parte_3.ejercicios_colecciones.ejrcicios_list.ordenar.clases_x.Persona;
+import parte_3.ejercicios_colecciones.ejrcicios_list.ordenar.clases_x.Persona;
 import java.util.*;
 
 public class Main {

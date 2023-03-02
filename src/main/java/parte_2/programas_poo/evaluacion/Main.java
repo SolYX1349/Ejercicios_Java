@@ -1,5 +1,5 @@
 package parte_2.programas_poo.evaluacion;
-import com.mis_ejercicios.parte_2.programas_poo.evaluacion.dominio.MetodosImp;
+import parte_2.programas_poo.evaluacion.dominio.MetodosImp;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,5 +1,5 @@
 package parte_2.ejercicios_poo_herencia.polimorfismo;
-import com.mis_ejercicios.parte_2.ejercicios_poo_herencia.polimorfismo.clases.*;
+import parte_2.ejercicios_poo_herencia.polimorfismo.clases.*;
 public class Main {
     public static void main(String[] args) {
         Empleado empleado = new Empleado("salumon",1.200);

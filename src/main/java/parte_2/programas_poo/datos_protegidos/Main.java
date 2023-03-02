@@ -1,6 +1,6 @@
 package parte_2.programas_poo.datos_protegidos;
 
-import com.mis_ejercicios.parte_2.programas_poo.datos_protegidos.dominio.OcultarInformacion;
+import parte_2.programas_poo.datos_protegidos.dominio.OcultarInformacion;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,5 +1,9 @@
 package parte_2.ejercicios_poo_abstract.herencia_abstracta;
-import com.mis_ejercicios.parte_2.ejercicios_poo_abstract.herencia_abstracta.domine.*;
+
+import parte_2.ejercicios_poo_abstract.herencia_abstracta.domine.Cuadrado;
+import parte_2.ejercicios_poo_abstract.herencia_abstracta.domine.FiguraGeometrica;
+import parte_2.ejercicios_poo_abstract.herencia_abstracta.domine.Rectangulo;
+
 public class MainTest {
     public static void main(String[] args) {
         FiguraGeometrica figura = new Rectangulo("Rectangulo");

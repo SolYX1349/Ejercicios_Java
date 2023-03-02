@@ -1,5 +1,7 @@
 package parte_1.n4_patrones_comunes.unidades;
-import com.mis_ejercicios.parte_1.n4_patrones_comunes.unidades.dominio.Metodos;
+
+import parte_1.n4_patrones_comunes.unidades.dominio.Metodos;
+
 import java.util.Scanner;
 
 public class Main {

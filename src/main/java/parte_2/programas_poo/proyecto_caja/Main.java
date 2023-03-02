@@ -1,5 +1,5 @@
 package parte_2.programas_poo.proyecto_caja;
-import com.mis_ejercicios.parte_2.programas_poo.proyecto_caja.domain.Caja;
+import parte_2.programas_poo.proyecto_caja.domain.Caja;
 
 public class Main {
     public static void main(String[] args) {
