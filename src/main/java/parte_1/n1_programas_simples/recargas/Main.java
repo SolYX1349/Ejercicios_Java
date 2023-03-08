@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Main {
     private Scanner scanner;
 
-    //Codigo somple del ejercicio
+    //Codigo simple del ejercicio
     public static void main(String[] args) {
 
         Scanner inputScanner = new Scanner(System.in);
