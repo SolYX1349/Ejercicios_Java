@@ -1,4 +1,4 @@
-package parte_1.n1_programas_simples.hora_futura;
+package parte_1.n4_patrones_comunes.hora_futura;
 
 import java.util.Scanner;
 
