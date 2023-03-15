@@ -1,4 +1,4 @@
-package parte_1_test.n1_programas_simples_tests.lingitud_nombre_test;
+package parte_1_test.n1_programas_simples_tests.longitud_nombre_test;
 
 import static org.junit.Assert.assertEquals;
 import org.junit.Test;
