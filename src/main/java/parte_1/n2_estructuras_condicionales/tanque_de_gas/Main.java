@@ -4,6 +4,9 @@ import java.util.Scanner;
 
 public class Main {
 
+    public Main() {
+    }
+
     //Codigo base del ejercicio
     public static void main(String[] args) {
         Scanner inputScanner = new Scanner(System.in);
@@ -29,26 +32,28 @@ public class Main {
     }
 
     //Codigo dirigido al testing
-    public static String calcularGasolinaIngresada() {
-        Scanner scanner = new Scanner(System.in);
+    private Scanner scanner;
+
+    public String calcularGasolinaIngresada() {
 
         System.out.println("Cantidad de litros requerida? ");
-        int cantidadLitrosRequerida = scanner.nextInt();
+        int cantidadGas = scanner.nextInt();
 
-        String message = "";
-
-        if (cantidadLitrosRequerida >= 1 && cantidadLitrosRequerida < 20) {
-            message = "Tanque Casi Vacio";
-        } else if (cantidadLitrosRequerida > 20 && cantidadLitrosRequerida < 35) {
-            message = "Gasolina Insuficiente";
-        } else if (cantidadLitrosRequerida > 35 && cantidadLitrosRequerida < 40) {
-            message = "Tanque Medio";
-        } else if (cantidadLitrosRequerida > 40 && cantidadLitrosRequerida < 60) {
-            message = "Tanque a 3/4";
-        } else if (cantidadLitrosRequerida > 60 && cantidadLitrosRequerida < 70) {
-            message = "Tanque Casi lleno";
-        } else {
-            message = "Tanque lleno";
+        String message = "Error Verifica La cantidad";
+        if (cantidadGas >= 1 && cantidadGas <= 70) {
+            if (cantidadGas <= 20) {
+                message = "Tanque Casi Vacio";
+            } else if (cantidadGas <= 35) {
+                message = "Gasolina Insuficiente";
+            } else if (cantidadGas <= 40) {
+                message = "Tanque Medio";
+            } else if (cantidadGas <= 60) {
+                message = "Tanque a 3/4";
+            } else if (cantidadGas < 70) {
+                message = "Tanque Casi lleno";
+            } else {
+                message = "Tanque lleno";
+            }
         }
         return message;
     }
