@@ -1,0 +1,5 @@
+Crea un programa el cual pregunta las tablas de multiplicar.
+Elemplo:
+7X3 = ?
+21
+7X3 = 21 true
