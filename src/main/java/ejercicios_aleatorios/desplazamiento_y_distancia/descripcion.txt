@@ -1,0 +1,9 @@
+Crea una funcianalidad para calcular la distancia y el desplazamiento apartir
+de los parametros de distancia y tiempo.
+Array
+[tiempo , distancia]
+[0,1]
+[1,-3]
+[2,5]
+Distancia:
+Desplazamiento:
