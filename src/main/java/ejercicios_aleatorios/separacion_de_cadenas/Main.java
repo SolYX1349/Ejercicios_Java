@@ -13,8 +13,8 @@ public class Main {
 
     public static boolean validationOfArguments(String txt, String regEx) {
         boolean isValid = false;
-        if (validText(txt)){
-            if (valRegEx(regEx, txt)){
+        if (validText(txt)) {
+            if (valRegEx(regEx, txt)) {
                 isValid = true;
             }
         }
