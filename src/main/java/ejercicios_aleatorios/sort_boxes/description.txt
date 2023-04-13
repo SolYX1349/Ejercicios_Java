@@ -1,0 +1,12 @@
+Ejercicio de Code wars-----------------------
+Bob está aburrido durante sus lecciones de física, por lo que se ha construido una caja de juguetes para ayudar a pasar el tiempo.
+La caja es especial porque tiene la capacidad de cambiar la gravedad.
+
+Hay algunas columnas de cubos de juguete en la caja dispuestas en una línea. los i-ésima columna contiene a_i cubos. Al principio, la gravedad en la caja
+tira de los cubos hacia abajo. Cuando Bob cambia la gravedad, comienza a tirar de todos los cubos a un lado determinado de la caja, d, que puede ser cualquiera
+'L' o 'R' ( izquierda o derecha ).
+A continuación se muestra un ejemplo de cómo podría ser una caja de cubos antes y después de cambiar la gravedad.
+
+Ejemplo:
+* 'R', [3, 2, 1, 2]      ->  [1, 2, 2, 3]
+* 'L', [1, 4, 5, 3, 5 ]  ->  [5, 5, 4, 3, 1]
