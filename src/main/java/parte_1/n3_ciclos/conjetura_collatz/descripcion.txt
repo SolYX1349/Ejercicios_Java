@@ -1,0 +1,6 @@
+Este programa realiza la conjetura de collatz, pero con la diferencia de
+que su tamaño es limitado.
+
+En este ejercicio se debe ingresar un número el cual si es un numero impar
+se multiplicará por 3 + 1 y si el número es par se divide entre 2 y asi ver
+las longitudes de los números.
