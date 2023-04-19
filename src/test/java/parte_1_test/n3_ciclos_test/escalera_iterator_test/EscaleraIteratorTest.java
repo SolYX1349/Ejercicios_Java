@@ -6,7 +6,7 @@ import parte_1.n3_ciclos.escalera_iterador.*;
 
 public class EscaleraIteratorTest {
 
-    private static final String STAIR_TO_FIVE = "1\n" +
+    public static final String STAIR_TO_FIVE = "1\n" +
             "12\n" +
             "123\n" +
             "1234\n" +
