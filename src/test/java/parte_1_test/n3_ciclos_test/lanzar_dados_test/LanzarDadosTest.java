@@ -51,7 +51,7 @@ public class LanzarDadosTest {
                     "6-6";
 
     @Test
-    public void should_return_all_the_posibles_when_call_the_function() {
-        Assert.assertEquals(EXPECTED_MESSAGE, LanzarDados.getPosiblesDado());
+    public void should_return_all_possibilities() {
+        Assert.assertEquals(EXPECTED_MESSAGE, LanzarDados.getChances());
     }
 }

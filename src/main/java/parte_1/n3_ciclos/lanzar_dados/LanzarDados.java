@@ -7,13 +7,13 @@ public class LanzarDados {
         for (int numeroCol = 1; numeroCol <= 6 ; numeroCol++) {
             System.out.println("Conjunto #" + numeroCol );
             for (int numeroFil = 1; numeroFil <= 6 ; numeroFil++) {
-                System.out.println(numeroCol +""+ numeroFil);
+                System.out.println(numeroCol + "-" + numeroFil);
             }
         }
     }
 
     //Codigo dirigido al testing
-    public static String getPosiblesDado(){
+    public static String getChances(){
         StringBuilder sb = new StringBuilder();
         for (int numeroCol = 1; numeroCol <= 6 ; numeroCol++) {
             sb.append("Conjunto #").append(numeroCol).append("\n");
@@ -24,20 +24,3 @@ public class LanzarDados {
         return String.valueOf(sb).trim();
     }
 }
-//------------------------Arreglar las traducciones---------------------------------------------------------
-//------------------------Arreglar las traducciones---------------------------------------------------------
-//------------------------Arreglar las traducciones---------------------------------------------------------
-//------------------------Arreglar las traducciones---------------------------------------------------------
-//------------------------Arreglar las traducciones---------------------------------------------------------
-//------------------------Arreglar las traducciones---------------------------------------------------------
-//------------------------Arreglar las traducciones---------------------------------------------------------
-//------------------------Arreglar las traducciones---------------------------------------------------------
-//------------------------Arreglar las traducciones---------------------------------------------------------
-//------------------------Arreglar las traducciones---------------------------------------------------------
-//------------------------Arreglar las traducciones---------------------------------------------------------
-//------------------------Arreglar las traducciones---------------------------------------------------------
-//------------------------Arreglar las traducciones---------------------------------------------------------
-//------------------------Arreglar las traducciones---------------------------------------------------------
-//------------------------Arreglar las traducciones---------------------------------------------------------
-//------------------------Arreglar las traducciones---------------------------------------------------------
-//------------------------Arreglar las traducciones---------------------------------------------------------
