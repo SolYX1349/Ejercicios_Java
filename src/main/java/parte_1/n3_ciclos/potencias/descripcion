@@ -1,3 +1,11 @@
-En este programa el usuario ingresa primero un numero el cual
-es la cantidad de filas impresas y en la segunda se potencia el numero
-hasta alcanzar la cantidad de filas ingresadas.
+En este programa el usuario ingresa primero un numero ey posterior un exponente o el numero de potencia
+y produce4 una salida similar a esto:
+
+Ejemplo:
+Numero: 5
+Exponente: 3
+
+5 X 5 X 5 = 125
+  25  X 5 = 125 Explication
+
+Para simplificar el ejercicio en el test solo entrega el resultado.
