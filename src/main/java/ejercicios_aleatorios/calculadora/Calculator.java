@@ -1,8 +1,8 @@
 package ejercicios_aleatorios.calculadora;
 
-public class Calculator {
+import ejercicios_aleatorios.libs.BasicOperations;
 
-    private static final Integer DEFAULT_PERCENT = 100;
+public class Calculator {
 
     public static String Calculate(double n1, double n2, String option) {
         double result;
@@ -20,53 +20,23 @@ public class Calculator {
         double result;
         switch (option) {
             case "+":
-                result = sum(n1, n2);
+                result = BasicOperations.sum(n1, n2);
                 break;
             case "-":
-                result = subtract(n1, n2);
+                result = BasicOperations.subtract(n1, n2);
                 break;
             case "*":
-                result = multiply(n1, n2);
+                result = BasicOperations.multiply(n1, n2);
                 break;
             case "/":
-                result = division(n1, n2);
+                result = BasicOperations.division(n1, n2);
                 break;
             case "%":
-                result = percent(n1, n2);
+                result = BasicOperations.percent(n1, n2);
                 break;
             default:
                 throw new Exception();
         }
-        return result;
-    }
-
-    private static double percent(double n1, double n2) {
-        double result;
-        result = (n1 * n2) / DEFAULT_PERCENT;
-        return result;
-    }
-
-    private static double division(double n1, double n2) {
-        double result;
-        result = n1 / n2;
-        return result;
-    }
-
-    private static double multiply(double n1, double n2) {
-        double result;
-        result = n1 * n2;
-        return result;
-    }
-
-    private static double subtract(double n1, double n2) {
-        double result;
-        result = n1 - n2;
-        return result;
-    }
-
-    private static double sum(double n1, double n2) {
-        double result;
-        result = n1 + n2;
         return result;
     }
 
