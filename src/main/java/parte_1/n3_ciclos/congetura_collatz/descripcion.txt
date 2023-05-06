@@ -1,6 +1,0 @@
-Este programa realiza la congetura de collatz pero con la diferencia de
-que su tamanio es limitado.
-
-En este ejercicio se deve ingresar un numero el cual si es un numero inpar
-se multiplicara por 3 + 1 y si el numero es par se divide entre 2 y asi ver
-las longitudes de los numeros.

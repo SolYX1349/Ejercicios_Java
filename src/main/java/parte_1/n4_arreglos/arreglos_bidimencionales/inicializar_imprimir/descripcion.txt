@@ -1,0 +1,7 @@
+En este ejercicio se debe crear, inicializar e imprimir
+un arreglo de dos dimenciónes.
+Ejemplo salida:
+numeros [0][0] = 1
+numeros [0][1] = 5
+numeros [1][0] = 8
+numeros [1][1] = 6
