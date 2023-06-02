@@ -1,4 +1,4 @@
-Crea una funcianalidad para calcular la distancia y el desplazamiento apartir
+Crea una funcionalidad para calcular la distancia y el desplazamiento apartir
 de los parametros de distancia y tiempo.
 Array
 [tiempo , distancia]
