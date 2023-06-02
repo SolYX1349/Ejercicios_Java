@@ -1,7 +1,7 @@
 package ejercicios_aleatorios.ordenamiento;
 import java.util.*;
 
-public class Main {
+public class Ordenamiento {
     public static void main(String[] args) {
         Scanner inputConsole = new Scanner(System.in);
         int [] numeros = new int[1];

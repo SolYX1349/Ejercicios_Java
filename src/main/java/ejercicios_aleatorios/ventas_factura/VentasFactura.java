@@ -1,6 +1,6 @@
-package ejercicios_aleatorios.ventas_y_facturas;
+package ejercicios_aleatorios.ventas_factura;
 import java.util.Scanner;
-public class Main {
+public class VentasFactura {
     public static void main(String[] args) {
         Scanner inputScanner = new Scanner(System.in);
 

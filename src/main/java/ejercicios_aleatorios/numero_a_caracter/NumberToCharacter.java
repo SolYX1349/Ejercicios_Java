@@ -1,6 +1,6 @@
 package ejercicios_aleatorios.numero_a_caracter;
 
-public class Main {
+public class NumberToCharacter {
     public static void main(String[] args) {
         numero_caracter(64);
     }

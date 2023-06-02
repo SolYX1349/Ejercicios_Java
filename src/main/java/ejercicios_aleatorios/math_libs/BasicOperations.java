@@ -1,4 +1,4 @@
-package ejercicios_aleatorios.libs;
+package ejercicios_aleatorios.math_libs;
 
 public class BasicOperations {
     private static final Integer DEFAULT_PERCENT = 100;

@@ -1,6 +1,6 @@
-package ejercicios_aleatorios.uper_y_lower;
+package ejercicios_aleatorios.upper_and_lower;
 
-public class Main {
+public class UpperAndLower {
     public static void main(String[] args) {
         convercion("hola mundo" , "minus");
     }

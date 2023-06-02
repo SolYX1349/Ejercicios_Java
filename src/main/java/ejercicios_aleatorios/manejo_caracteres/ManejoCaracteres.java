@@ -1,6 +1,6 @@
 package ejercicios_aleatorios.manejo_caracteres;
 
-public class Main {
+public class ManejoCaracteres {
     public static void main(String[] args) {
         String nombre1 = "Carl";
         String nombre2 = "Lucas";

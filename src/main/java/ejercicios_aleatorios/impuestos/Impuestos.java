@@ -1,7 +1,7 @@
 package ejercicios_aleatorios.impuestos;
 import java.util.Scanner;
 
-public class Main {
+public class Impuestos {
     public static void main(String[] args) {
         Scanner inputScanner = new Scanner (System.in);
 

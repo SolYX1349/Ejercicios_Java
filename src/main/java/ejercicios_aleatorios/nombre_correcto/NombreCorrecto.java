@@ -1,10 +1,10 @@
 package ejercicios_aleatorios.nombre_correcto;
 
-public class Main {
+public class NombreCorrecto {
     public static void main(String[] args) {
-        Main.validacionNombre("Carlos 2lorem morxio");
-        Main.validacionNombre("pedro c@valera hernandez");
-        Main.validacionNombre("Antonio daniel espinoza");
+        NombreCorrecto.validacionNombre("Carlos 2lorem morxio");
+        NombreCorrecto.validacionNombre("pedro c@valera hernandez");
+        NombreCorrecto.validacionNombre("Antonio daniel espinoza");
     }
     private static boolean validacionNombre(String nombreCompleto) {
         // ¿es en blanco?

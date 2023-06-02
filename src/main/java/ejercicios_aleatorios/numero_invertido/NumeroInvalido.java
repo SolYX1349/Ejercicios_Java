@@ -2,7 +2,7 @@ package ejercicios_aleatorios.numero_invertido;
 
 import java.util.Scanner;
 
-public class Main {
+public class NumeroInvalido {
     public static void main(String[] args) {
         Scanner inputScanner = new Scanner(System.in);
 

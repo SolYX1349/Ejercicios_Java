@@ -2,7 +2,7 @@ package ejercicios_aleatorios.separacion_de_cadenas;
 
 import java.util.regex.Pattern;
 
-public class Main {
+public class SeparacionCadenas {
     public String[] splitString(String text, String regEx) {
         if (validationOfArguments(text, regEx)) {
             Pattern pattern = Pattern.compile(regEx);

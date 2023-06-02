@@ -1,6 +1,6 @@
 package ejercicios_aleatorios.letra_numero;
 import java.util.Scanner;
-public class Main {
+public class LetraNumero {
 
     public static void main(String[] args){
         Scanner inputScanner = new Scanner(System.in);

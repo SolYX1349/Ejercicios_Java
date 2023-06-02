@@ -2,7 +2,7 @@ package ejercicios_aleatorios.pate_decimal;
 
 import java.util.Scanner;
 
-public class Main {
+public class ParteDecimal {
     public static void main(String[] args) {
         Scanner inputScanner = new Scanner(System.in);
 

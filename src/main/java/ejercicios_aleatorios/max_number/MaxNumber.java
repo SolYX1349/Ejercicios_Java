@@ -1,6 +1,6 @@
-package ejercicios_aleatorios.nume_max;
+package ejercicios_aleatorios.max_number;
 import java.util.*;
-public class Main {
+public class MaxNumber {
     public static void main(String[] args) {
         OptionalDouble numMax = null , numMin = null;
         double numeros [] = new double[10];

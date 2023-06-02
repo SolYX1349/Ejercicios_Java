@@ -1,6 +1,6 @@
 package ejercicios_aleatorios.calculadora;
 
-import ejercicios_aleatorios.libs.BasicOperations;
+import ejercicios_aleatorios.math_libs.BasicOperations;
 
 public class Calculator {
 

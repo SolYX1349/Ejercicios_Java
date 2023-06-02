@@ -1,16 +1,16 @@
 package ejercicios_aleatorios_test.separacion_de_cadenas_test;
 
-import ejercicios_aleatorios.separacion_de_cadenas.Main;
+import ejercicios_aleatorios.separacion_de_cadenas.SeparacionCadenas;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 
 public class SeparadorCadenasTest {
-    Main main;
+    SeparacionCadenas main;
 
     @Before
     public void initialize() {
-        main = new Main();
+        main = new SeparacionCadenas();
     }
 
     @Test
