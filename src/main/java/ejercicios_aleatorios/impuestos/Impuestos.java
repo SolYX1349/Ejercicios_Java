@@ -1,34 +1,44 @@
 package ejercicios_aleatorios.impuestos;
-import java.util.Scanner;
 
 public class Impuestos {
-    public static void main(String[] args) {
-        Scanner inputScanner = new Scanner (System.in);
 
-        double precio1 = 0, precio2 = 0 ,montoTotal , inpuesto , montoTotalConInpuesto;
-        String nombreFactura1  = "";
+    private static final Double DEFAULT_IVA = 16.0;
 
-        try{
-            System.out.print("Nombre factura: ");
-            nombreFactura1 = inputScanner.nextLine();
-
-            System.out.print("Precio: ");
-            precio1 = inputScanner.nextDouble();
-
-            System.out.print("Precio: ");
-            precio2 = inputScanner.nextDouble();
-
-        }catch (Exception ex){
-            System.out.println();
-            main(args);
-            System.exit(0);
+    public static String createFacture(String nombre, Double[] preciosProductos) {
+        String message = "Error";
+        if (!nombre.isEmpty()) {
+            Double total = calcularTotalSinImpuestos(preciosProductos);
+            Double impuesto = calcularImpuesto(total);
+            message = formatoFactura(nombre, total, impuesto, calcularTotalMasImpuestos(total, impuesto));
         }
-        montoTotal = precio1 + precio2;
-        inpuesto = (montoTotal * 19) / 100;
-        montoTotalConInpuesto = montoTotal + inpuesto;
 
-        System.out.println("Nombre factura: " + nombreFactura1 + " \nTotal = " + precio1);
-        System.out.println("Inpuesto: " + inpuesto);
-        System.out.println("Total mas inpuesto: " + montoTotalConInpuesto);
+        return message;
+    }
+
+    private static Double calcularTotalMasImpuestos(Double total, Double impuesto) {
+        return total + impuesto;
+    }
+
+    private static Double calcularImpuesto(Double montoTotal) {
+        return (montoTotal * DEFAULT_IVA) / 100;
+    }
+
+    //Se encarga de calcular el total de los precios
+    private static Double calcularTotalSinImpuestos(Double[] precios) {
+        Double total = 0.0;
+        for (Double price : precios) {
+            total += price;
+        }
+        return total;
+    }
+
+    //Esta seccion se encarga de regresar el formato de la factura
+    private static String formatoFactura(String nombre, Double totalSinImpuestos, Double impuesto, Double montoTotalMasImpuestos) {
+        StringBuilder sb = new StringBuilder();
+        sb.append("Nombre factura: ").append(nombre);
+        sb.append("\nTotal = ").append(totalSinImpuestos);
+        sb.append("\nImpuesto: ").append(impuesto);
+        sb.append("\nTotal mas impuesto: ").append(montoTotalMasImpuestos);
+        return sb.toString();
     }
 }
