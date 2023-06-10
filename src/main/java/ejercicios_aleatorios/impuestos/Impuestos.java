@@ -6,13 +6,17 @@ public class Impuestos {
 
     public static String createFacture(String nombre, Double[] preciosProductos) {
         String message = "Error";
-        if (!nombre.isEmpty()) {
+        if (valida_los_datos_de_la_factura(nombre, preciosProductos)) {
             Double total = calcularTotalSinImpuestos(preciosProductos);
             Double impuesto = calcularImpuesto(total);
             message = formatoFactura(nombre, total, impuesto, calcularTotalMasImpuestos(total, impuesto));
         }
 
         return message;
+    }
+
+    private static boolean valida_los_datos_de_la_factura(String nombre, Double[] preciosProductos) {
+        return !nombre.isEmpty() && preciosProductos.length >= 2;
     }
 
     private static Double calcularTotalMasImpuestos(Double total, Double impuesto) {

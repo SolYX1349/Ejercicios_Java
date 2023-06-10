@@ -6,7 +6,7 @@ import org.junit.Test;
 
 public class ImpuestosTest {
     @Test
-    public void should_return_an_string() {
+    public void should_return_the_facture() {
         String expectedMessage = "Nombre factura: Algorithmic\n" +
                 "Total = 1542.0\n" +
                 "Impuesto: 246.72\n" +
@@ -15,8 +15,13 @@ public class ImpuestosTest {
     }
 
     @Test
-    public void should_return_error_message_for_void_name() {
+    public void should_return_an_error_message_for_void_name() {
         String expectedMessage = "Error";
         Assert.assertEquals(expectedMessage, Impuestos.createFacture("", new Double[]{1200.0, 342.0}));
+    }
+    @Test
+    public void should_return_an_error_message_for_an_empty_array() {
+        String expectedMessage = "Error";
+        Assert.assertEquals(expectedMessage, Impuestos.createFacture("Facture_1", new Double[]{}));
     }
 }
